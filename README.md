@@ -1,2 +1,2 @@
 # Control_Universidad
-Control Universidad Demo 1130
+Control Universidad Demo
