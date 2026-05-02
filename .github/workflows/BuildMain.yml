@@ -21,7 +21,7 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore dependencies
-      run: dotnet UniversityGrades.csproj restore
+      run: dotnet restore UniversityGrades.csproj
     - name: Build
       run: dotnet build UniversityGrades.csproj --no-restore
   
